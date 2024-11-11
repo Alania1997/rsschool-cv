@@ -4,6 +4,7 @@
 - Email: vanyarewo@gmail.com
 - Phone: +79047685284
 - GitHub: [My GitHub Profile](https://github.com/Alania1997)
+- Telegram: @RewoXan
 
 ## Objective
 I strive to develop in web development, create scalable applications and participate in team projects
